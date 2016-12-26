@@ -5,7 +5,7 @@
     <body>
         <div id="kotak">
             <div id="atas">
-                LOGIN ADMIN
+                LOGIN ADMINISTRATOR
             </div>
             <div id="bawah">
                 <form method="post" action="cek_login.php">
